@@ -1,0 +1,42 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.imagem{
+
+    border: 1px solid;
+    border-color: black;
+    margin-right: 20px;
+}
+
+.informacoes {
+    display: flex;
+    flex-direction: column;
+}
+
+.precos {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.preco1{
+    color: green;
+}
+
+.preco2 {
+    color: blue;
+    margin-top: 4px;
+}
+
+.descricao{
+    margin-top: 15px;
+}
+
+
+
+

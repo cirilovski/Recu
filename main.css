@@ -1,0 +1,15 @@
+@import "./cabecalho.css";
+@import "./rodape.css";
+@import "./login.css";
+@import "./cadastro.css";
+@import "./sobre.css";
+@import "./inicio.css";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-color: white;
+}

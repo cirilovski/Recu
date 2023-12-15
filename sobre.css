@@ -1,0 +1,20 @@
+.sobre {
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+h3 {
+    font-size: 40px;
+}
+.loja {
+    height: 500px;
+    width: 500px;
+    border-radius: 100vh;
+}
+.sobretexto {
+    max-width: 700px;
+    padding: 20px;
+    font-size: 17px;
+}

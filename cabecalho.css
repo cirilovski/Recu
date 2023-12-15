@@ -1,0 +1,86 @@
+header {
+    height: 10vh;
+    background-color: #f90606;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+
+.cabecao {
+    display: flex;
+    flex-direction: row;
+}
+
+.opcoes {
+    display: flex;
+    padding-left: 4vh;
+    padding-right: 4vh;
+}
+
+.marca {
+    font-size: 28px;
+    font-weight: bolder;
+    margin-left: 480px;
+}
+
+.botoes {
+    display: flex;
+    flex-direction: row;
+    padding-left: 400px;
+    
+}
+
+.carrinho{
+    cursor: pointer;
+    width: 15vh;
+    height: 5vh;
+    margin-top: -10px;
+    margin-right: 60px;
+    border-radius: 12px;
+    border: none;
+    background-color: white;
+    
+}
+
+.login {
+    cursor: pointer;
+    width: 15vh;
+    height: 5vh;
+    margin-top: -10px;
+    margin-right: 20px;
+    border-radius: 12px;
+    border: none;
+    background-color: white;
+    
+}
+
+.cadastro {
+    cursor: pointer;
+    width: 15vh;
+    height: 5vh;
+    margin-top: -10px;
+    border-radius: 12px;
+    border: none;
+    background-color: white;
+}
+
+a {
+    color: black;
+}
+
+.cartao {
+    color: green;
+}
+
+.dindin {
+    color:blue
+}
+

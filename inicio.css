@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 230px;
+}
+
+h2 {
+    font-size: 35px;
+    padding-bottom: 50px;
+
+}
+img {
+    width: 200px;
+    height: 250px;
+    cursor: pointer;
+}
+.brinquedos {
+    display: flex;
+    justify-content: space-around;
+}

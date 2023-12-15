@@ -1,0 +1,17 @@
+.rodape {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #f90606;
+    width: 94,5%;
+    height: 120px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.titulo-rodape {
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}
